@@ -45,5 +45,4 @@ sinkronisasi antara lapisan model dan tampilan
 
 ## Sumber/Referensi
 -  spaceo.ca: https://www.spaceo.ca/blog/vue-js-pros-and-cons/
--  monterail.com: https://www.monterail.com/blog/reasons-why-
-vuejs-is-popular#a-framework-with-a-gentle-learning-curve
+-  monterail.com: https://www.monterail.com/blog/reasons-why-vuejs-is-popular#a-framework-with-a-gentle-learning-curve
